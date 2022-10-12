@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/github/license/kailong321200875/vue-element-plus-admin.svg)](LICENSE)
 
-<h1>vue-element-plus-admin</h1>
+<h1>vue-element-plus-admin dev</h1>
 </div>
 
 **English** | [中文](./README.zh-CN.md)
